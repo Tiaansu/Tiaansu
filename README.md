@@ -26,6 +26,13 @@ Languages:
 
 --------------
 
+Hobbies
+--------------
+
+I like playing `SA-MP`, `Mobile Legends: Bang Bang`, `Pointblank`, `Valorant`.
+
+--------------
+
 How to Contact me?
 --------------
 
