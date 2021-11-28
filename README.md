@@ -4,18 +4,25 @@
 About me
 --------------
 
- 💬 Hi! my name is `Marlon R. Cabading` also known as `Tian`,
- 🗓 I born in **July 5, 2003** and raised in **Philippines**,
- 🔭 I’m currently working on **Discord Bot**,
- 🌱 I’m currently learning **SQL** and **JavaScript**,
- 😄 my Pronouns is **He/Him**.
+* Hi! my name is `Marlon R. Cabading` also known as `Tian`,
+* I born in **July 5, 2003** and raised in **Philippines**,
+* I’m currently working on **Discord Bot**,
+* I’m currently learning **SQL** and **JavaScript**,
+* my Pronouns is **He/Him**.
 
 --------------
 
 Experienced in Coding:
 --------------
 
- `Python`, `C++`, `C`, `JavaScript`, `SQL`, `Pawn`(a programming language based on `C` language.), `HTML & CSS`.
+* `Python`, 
+* `C++`, 
+* `C`, 
+* `JavaScript`, 
+* `SQL`, 
+* `Pawn`,
+    - a programming language based on `C` language.
+* `HTML & CSS`.
 
 --------------
 
