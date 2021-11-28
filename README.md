@@ -26,6 +26,15 @@ Experienced in Coding:
 
 --------------
 
+How to Contact me?
+--------------
+
+You can DM mo on my **Discord** account.
+
+__**Discord**__: `Tiaaan.#5777`
+
+--------------
+
 <!--
 **TianEscobar/TianEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
