@@ -5,7 +5,6 @@
 About me
 --------------
 
-* Hi! my name is `Marlon R. Cabading` also known as `Tian`,
 * I born in **July 5, 2003** and raised in **Philippines**,
 * I’m currently working on **Discord Bot**,
 * I’m currently learning **SQL** and **JavaScript**,
