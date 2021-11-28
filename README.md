@@ -12,7 +12,7 @@ About me
 
 --------------
 
-Experienced in Coding:
+Languages:
 --------------
 
 * `Python`, 
@@ -34,6 +34,9 @@ You can DM me on my **Discord** account.
 __**Discord**__: `Tiaaan.#5777`
 
 --------------
+
+My Discord Bot:
+[Invite him here](https://discord.com/api/oauth2/authorize?client_id=914404653054197780&permissions=8&scope=bot%20applications.commands)
 
 <!--
 **TianEscobar/TianEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
