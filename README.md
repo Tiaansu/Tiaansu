@@ -1,8 +1,6 @@
 ### Hi there I'm Marlon aka [Tian](https://github.com/TianEscobar/TianEscobar)👋
 -------------------------------------------------
 
-[![counter](https://img.shields.io/static/v1?label=Profile-Views&message=&color=green)](https://en6nn706qljsnb1.m.pipedream.net)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TianEscobar&repo=TianEscobar)
 
 About me
 --------------
