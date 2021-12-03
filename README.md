@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" />
+    <img src="https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
     <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%303030"  height="25"/>
     <img src="https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=0078d7&ffffff"  height="25"/>
@@ -11,6 +12,7 @@
     <img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=none"  height="25"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=none"  height="25"/>
 
 <!--
 -------------------------------------------------
