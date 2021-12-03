@@ -3,6 +3,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" />
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
+    <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%303030"  height="25"/>
+    <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%68A063"  height="25"/>
+    <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%3C873A"  height="25"/>
 <!--
 -------------------------------------------------
 
