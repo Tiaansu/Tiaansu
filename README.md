@@ -3,9 +3,11 @@
 <h4>My main IDE is:</h4>
 <p align="left"><a href="https://code.visualstudio.com/download/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></a></p>
 
+<h5>Where I'm active?</h5>
+
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none)](https://discord.com/download/)
 
-<h6>**You can contact me on my Discord acc**</h6>
+<h5>You can contact me on my Discord acc</h5>
 
 ![my-discord](my-discord.png)
 
@@ -23,7 +25,6 @@
 
 <!--
 -------------------------------------------------
-
 
 About me
 --------------
