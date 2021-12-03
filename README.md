@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
     <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%303030"  height="25"/>
     <img src="https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=0078d7&ffffff"  height="25"/>
-    <img src="https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=0078d7&ffffff"  height="25"/>
+    <img src="https://img.shields.io/badge/C%#Sharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=0078d7&ffffff"  height="25"/>
     <img src="https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=0078d7&ffffff"  height="25"/>
 
 <!--
