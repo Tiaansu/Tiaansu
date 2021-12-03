@@ -3,7 +3,7 @@
 <h4>My main IDE is:</h4>
 <p align="left"><a href="https://code.visualstudio.com/download/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></a></p>
 
-<h5>My known languages & currently learning language.</h5>
+<h6>My technologies.</h6>
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
     <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%303030"  height="25"/>
@@ -17,11 +17,17 @@
     <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=none"  height="25"/>
 
 
-<h5>Where I'm active?</h5>
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=tianescobar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianescobar&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
+
+
+<h6>Where I'm active?</h6>
 
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none)](https://discord.com/download/)
 
-<h5>You can contact me on my Discord acc</h5>
+<h6>You can contact me on my Discord acc</h6>
 
 ![my-discord](my-discord.png)
 
