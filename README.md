@@ -1,8 +1,8 @@
 <h3 align="center"></h3>
 
-Im currently using
+<h2 align="center">I'm currently using</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /><h3>as my main IDE.</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
