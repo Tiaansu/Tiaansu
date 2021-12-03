@@ -1,4 +1,8 @@
-### Hi there I'm Marlon aka [Tian](https://github.com/TianEscobar/TianEscobar)👋
+<h3 align="center"></h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" />
+<!--
 -------------------------------------------------
 
 
@@ -46,7 +50,7 @@ My Discord Bot:
 [Invite link here](https://discord.com/api/oauth2/authorize?client_id=914404653054197780&permissions=8&scope=bot%20applications.commands)
 
 
-<!--
+
 **TianEscobar/TianEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
