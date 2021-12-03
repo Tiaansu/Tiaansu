@@ -5,7 +5,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none)](https://discord.com/download/)
 
-<h6>You can contact me on my Discord acc</h6>
+<h6>**You can contact me on my Discord acc**</h6>
 
 ![my-discord](my-discord.png)
 
