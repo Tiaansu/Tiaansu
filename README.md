@@ -4,9 +4,8 @@ My main IDE is
 --------------
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></p>
+    <a href="https://code.visualstudio.com/download/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></p></a>
 
-# [![Test](https://code.visualstudio.com/download/)](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7).
 --------------
 
 <p align="center">
