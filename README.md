@@ -3,14 +3,7 @@
 <h4>My main IDE is:</h4>
 <p align="left"><a href="https://code.visualstudio.com/download/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></a></p>
 
-<h5>Where I'm active?</h5>
-
-[![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none)](https://discord.com/download/)
-
-<h5>You can contact me on my Discord acc</h5>
-
-![my-discord](my-discord.png)
-
+<h5>My known languages & currently learning language.</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
     <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%303030"  height="25"/>
@@ -22,6 +15,15 @@
     <img src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=none"  height="25"/>
+
+
+<h5>Where I'm active?</h5>
+
+[![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none)](https://discord.com/download/)
+
+<h5>You can contact me on my Discord acc</h5>
+
+![my-discord](my-discord.png)
 
 <!--
 -------------------------------------------------
