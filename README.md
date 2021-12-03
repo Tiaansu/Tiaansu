@@ -1,4 +1,4 @@
-<h3 align="center"></h3>
+<h3 align="center">Marlon R. Cabading ⚡ Tian ⚡ aspiring Game & Web Developer</h3>
 
 <h4>My main IDE is:</h4>
 <p align="left"><a href="https://code.visualstudio.com/download/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></a></p>
