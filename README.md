@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=0078d7&ffffff"  height="25"/>
     <img src="https://img.shields.io/badge/C%20Sharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=0078d7&ffffff"  height="25"/>
     <img src="https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=0078d7&ffffff"  height="25"/>
+    <img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=0078d7"  height="25"/>
+    <img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=ff6e30"  height="25"/>
+    <img src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=787C85"  height="25"/>
+    <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=00758f&f29111"  height="25"/>
 
 <!--
 -------------------------------------------------
