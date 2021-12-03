@@ -1,7 +1,7 @@
 <h3 align="center"></h3>
-[IDE](https://code.visualstudio.com/download/)
+
 <p align="left">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /> <b>is my main [IDE](https://code.visualstudio.com/download/).</b>
 <p align="center">
     <img src="https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=none"  height="25"/>
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
