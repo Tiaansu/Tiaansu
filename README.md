@@ -1,10 +1,12 @@
 <h3 align="center"></h3>
 
+My main IDE is
 --------------
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /> is my main <a href="https://code.visualstudio.com/download/">IDE</a>.
-    
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" /></p>
+
+[Download Link here](https://code.visualstudio.com/download/).
 --------------
 
 <p align="center">
