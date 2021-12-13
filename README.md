@@ -1,6 +1,15 @@
 <!-- Main -->
 <h3 align="center">Marlon R. Cabading ⚡ Tian ⚡ aspiring Game & Web Developer</h3>
 
+<ul>
+  <li>My open-source projects
+    <ul>
+      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-RP-server">SA-MP gamemode</a> for RP server.</li>
+      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-PW-server">SA-MP gamemode</a> for PW server.</li>
+    </ul>
+  </li>
+</ul>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7" height="25" />
     <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
@@ -45,14 +54,7 @@
   <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianescobar&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
-<ul>
-  <li>My open-source projects
-    <ul>
-      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-RP-server">SA-MP gamemode</a> for RP server.</li>
-      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-PW-server">SA-MP gamemode</a> for PW server.</li>
-    </ul>
-  </li>
-</ul>
+
  
 
 <h6>Where I'm active?</h6>
