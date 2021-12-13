@@ -50,12 +50,12 @@
 
 ###
 
---------------
+===============================================
 
 - My open projects
   - [SA-MP gamemode for RP server]()
   - [SA-MP gamemode for PW server]()
-
+ 
 
 <h6>Where I'm active?</h6>
 
