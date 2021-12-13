@@ -4,8 +4,8 @@
 <ul>
   <li>My open-source projects
     <ul>
-      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-RP-server">SA-MP gamemode</a> for RP server.</li>
-      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-PW-server">SA-MP gamemode</a> for PW server.</li>
+      <li><a href="https://github.com/Tiaansu/SA-MP-gamemode-for-RP-server">SA-MP gamemode</a> for RP server.</li>
+      <li><a href="https://github.com/Tiaansu/SA-MP-gamemode-for-PW-server">SA-MP gamemode</a> for PW server.</li>
     </ul>
   </li>
 </ul>
@@ -25,8 +25,8 @@
 
 
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=tianescobar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianescobar&theme=tokyonight&layout=compact&hide_border=true" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=tiaansu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaansu&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 <!-- First main readme
