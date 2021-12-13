@@ -45,16 +45,14 @@
   <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianescobar&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
-<br>
-<br>
-
-###
-
-===============================================
-
-- My open projects
-  - [SA-MP gamemode for RP server]()
-  - [SA-MP gamemode for PW server]()
+<ul>
+  <li>My open-source projects
+    <ul>
+      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-RP-server">SA-MP gamemode</a> for RP server.</li>
+      <li><a href="https://github.com/TianEscobar/SA-MP-gamemode-for-PW-server">SA-MP gamemode</a> for PW server.</li>
+    </ul>
+  </li>
+</ul>
  
 
 <h6>Where I'm active?</h6>
