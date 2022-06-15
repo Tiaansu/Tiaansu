@@ -35,11 +35,15 @@
 </table>
 <br>
 <table>
-    <tr>
-        <th>Projects</th>
-    </tr>
-    <tr>
-        <td>Discord Bot</td>
-        <td><a href="https://discord.com/oauth2/authorize?client_id=980351326984740904&permissions=8&scope=applications.commands%20bot">Onami</a> a multipurpose Discord Bot.</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Projects</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Discord Bot</td>
+            <td><a href="https://discord.com/oauth2/authorize?client_id=980351326984740904&permissions=8&scope=applications.commands%20bot">Onami</a> a multipurpose Discord Bot.</td>
+        </tr>
+    </tbody>
 </table>
