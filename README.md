@@ -36,7 +36,7 @@
 <br>
 <table>
     <tr>
-        <thead>Projects</thead>
+        <th>Projects</th>
     </tr>
     <tr>
         <td>Discord Bot</td>
