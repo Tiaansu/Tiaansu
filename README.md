@@ -6,4 +6,4 @@
  - 🥅 Goals: Learn Golang, make a responsive website.
 
 ### Language and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][https://code.visualstudio.com/]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][Visual Studio Code](https://code.visualstudio.com/)
