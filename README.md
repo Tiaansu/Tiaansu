@@ -2,7 +2,6 @@
     <tr>
         <td>Name</td>
         <td>Marlon R. Cabading (Tiaan)</td>
-        <td rowspan="4"><img src="nami.gif" width="150" height="150"></td>
     </tr>
     <tr>
         <td>Age</td>
@@ -22,7 +21,6 @@
     <tr>
         <td>Title</td>
         <td>Student</td>
-        <td rowspan="4"><img src="nami.gif" width="150" height="150"></td>
     </tr>
     <tr>
         <td>Interests</td>
