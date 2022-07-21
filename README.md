@@ -20,9 +20,15 @@
 [<img align="left" alt="Pawn lang" width="26px" src="https://github.com/leonardssh/vscord/blob/main/assets/icons/pawn.png" style="padding-right:10px;" />][main]
 [<img align="left" alt="Discord JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />][main]
 
+### Project(s):
+ - [Onami][onami] - **Onami** is a Discord bot made using Discord.JS v13. **Onami** is on open beta.
+ - [GTA SA-MP gamemode][tian-omp] - A gamemode made using **Pawn** and [open.mp](https://open.mp/), **Pawn** is a language that similar to Clang.
+
 <br />
 <br />
 
 [vscode]: https://code.visualstudio.com/
 [visualstudio]: https://visualstudio.microsoft.com/downloads/
 [main]: https://github.com/Tiaansu/
+[onami]: https://discord.com/api/oauth2/authorize?client_id=980351326984740904&permissions=8&scope=bot%20applications.commands
+[tian-omp]: https://github.com/Tiaansu/tian-omp
