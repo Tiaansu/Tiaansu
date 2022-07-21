@@ -24,7 +24,7 @@
 <br />
 
 ### Project(s):
- - [Onami][onami] - **Onami** is a Discord bot made using Discord.JS v13. **Onami** is on open beta.
+ - [Onami][onami] - **Onami** is a Discord bot made using Discord.JS v13. **Onami** is currently on open beta.
  - [GTA SA-MP gamemode][tian-omp] - A gamemode made using **Pawn** and [open.mp](https://open.mp/), **Pawn** is a language that similar to Clang.
 
 <br />
