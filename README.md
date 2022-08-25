@@ -19,6 +19,7 @@
 	<a href="https://github.com/Tiaansu/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </a>
 	<a href="https://github.com/Tiaansu/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> </a>
 	<a href="https://github.com/Tiaansu/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </a>
+	<a href="https://github.com/Tiaansu/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/> </a>
 	<a href="https://github.com/Tiaansu/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a> 
