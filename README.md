@@ -3,3 +3,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Tiaan;I'm+a+aspiring+Web+Developer;Nice+to+meet+you+%3A)&size=30">
   </a>
 </h1>
+
+## 🙋‍♂️ About Me 
+- 🌱 I’m currently learning **JavaScript** / **TypeScript**
+- 👯 I’m looking to collaborate with other web developer.
+- 🥅 2022 Goals: Creating more projects and contribute more to **Open Source projects**
+- ⚡ Fun fact: **I love playing games**
+
+## Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/vscode.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+	
+
+</p>
