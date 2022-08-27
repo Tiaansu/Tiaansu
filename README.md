@@ -6,8 +6,7 @@
 
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning **JavaScript** / **TypeScript**
-- 👯 I’m looking to collaborate with other web developer.
-- 🥅 2022 Goals: Creating more projects and contribute more to **Open Source projects**
+- 🥅 2022 Goals: Learn **JavaScript** & **TypeScript**
 - ⚡ Fun fact: **I love playing games**
 
 ## Languages and Tools:
