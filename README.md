@@ -5,8 +5,8 @@
 </h1>
 
 ## 🙋‍♂️ About Me 
-- 🌱 I’m currently learning **JavaScript** / **TypeScript**
-- 🥅 2022 Goals: Learn **JavaScript** & **TypeScript**
+- 🌱 I’m currently learning **JavaScript**, **TypeScript**, and **C#**
+- 🥅 2022 Goals: Learn **JavaScript**, **TypeScript**, **C#**, and make a simple game.
 - ⚡ Fun fact: **I love playing games**
 
 ## Languages and Tools:
