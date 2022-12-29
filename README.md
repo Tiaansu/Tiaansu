@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning **JavaScript**, **TypeScript**, and **C#**
-- 🥅 2022 Goals: Learn **JavaScript**, **TypeScript**, **C#**, and make a simple game.
+- 🥅 2023 Goals: Learn **JavaScript**, **TypeScript**, **C#**, and make a One Piece game built with [Discord.js](https://discord.js.org/).
 - ⚡ Fun fact: **I love playing games**
 
 ## Languages and Tools:
