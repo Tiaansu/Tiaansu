@@ -1,8 +1,11 @@
-<h1 align="center">
+<a href="https://discord.com/users/734302186644701205" target="_blank">
+    <img width="100%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/734302186644701205?bg=1f1f1f&borderRadius=5px">
+</a>
+<!--<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Tiaan;I'm+a+aspiring+Web+Developer;Nice+to+meet+you+%3A)&size=30">
   </a>
-</h1>
+</h1>-->
 
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning **JavaScript**, **TypeScript**, and **C#**
@@ -23,6 +26,4 @@
 	<a href="https://github.com/Tiaansu/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a> 
-	
-
 </p>
