@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=07F774&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Tiaan.;I'm+a+aspiring+web+developer;I'm+also+an+aspiring+software+engineer.;Nice+to+meet+you" alt="Typing SVG" />
+		<img width="500px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=07F774&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Tiaan.;I'm+a+aspiring+web+developer;I'm+also+an+aspiring+software+engineer.;Nice+to+meet+you" alt="Typing SVG" />
 	</a>
 </div>
 
@@ -24,11 +24,11 @@
             <th>C</th>
         </tr>
         <tr>
-            <td><div align="center"><img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></div></td>
-            <td><div align="center"><img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div></td>
-            <td><div align="center"><img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></div></td>
-            <td><div align="center"><img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></div></td>
-            <td><div align="center"><img height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></div></td>
+            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></div></td>
+            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div></td>
+            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></div></td>
+            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></div></td>
+            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></div></td>
         </tr>
     </table>
 </div>
