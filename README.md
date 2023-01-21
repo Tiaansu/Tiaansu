@@ -9,7 +9,7 @@
         <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/734302186644701205?bg=1f1f1f&borderRadius=5px">
     </a>
     <a href="https://wakatime.com/@Tiaansu" target="_blank">
-	<img width="500px" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiaansu">
+	<img width="500px" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiaansu&range=all_time">
    </a>
 </div>
 
