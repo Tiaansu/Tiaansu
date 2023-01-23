@@ -9,29 +9,19 @@
         <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/734302186644701205?bg=1f1f1f&borderRadius=5px">
     </a>
     <a href="https://wakatime.com/@Tiaansu" target="_blank">
-	<img width="500px" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiaansu&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2">
+	<img width="500px" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiaansu&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&range=all_time&custom_title=Coding%20Stats&v=2">
    </a>
 </div>
 
 <div align="center">
     <h2>Languages I know:</h2>
-    <table>
-        <tr>
-            <th>JavaScript</th>
-            <th>TypeScript</th>
-            <th>C#</th>
-            <th>C++</th>
-            <th>C</th>
-        </tr>
-        <tr>
-            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></div></td>
-            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div></td>
-            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></div></td>
-            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></div></td>
-            <td><div align="center"><img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></div></td>
-        </tr>
-    </table>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+    <a href="https://cplusplus.com/" target="_blank" title="C++"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+    <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
 </div>
+
 
 <!--<h1 align="center">
   <a href="https://git.io/typing-svg">
