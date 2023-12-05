@@ -11,9 +11,10 @@
 </div>
 
 <br />
+        
 
 <div align="center">
-    <a href="https://github.com/Tiaansu" target="_blank">
+    <a href="https://social-profiles.tiaansu.vercel.app/656aca4fdb892d8b7029c5f8" target="_blank">
         <img align="center" alt="Social Profiles" src="https://social-profiles.tiaansu.vercel.app/api/social-profiles/656aca4fdb892d8b7029c5f8/github?theme=dark&bg=1f1f1f&borderRadius=5px">
     </a>
 </div>
