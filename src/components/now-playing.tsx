@@ -15,7 +15,7 @@ export default function NowPlaying() {
     if (isLoading) {
         return <p>Loading...</p>;
     }
-    if (error) {
+    if (error || !data?.isPlaying) {
         return (
             <div className='flex items-center gap-1 sm:gap-2'>
                 <svg className='flex-none w-5 h-5' viewBox='0 0 168 168'>
