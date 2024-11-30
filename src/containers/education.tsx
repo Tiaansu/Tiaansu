@@ -44,7 +44,8 @@ export default function Education() {
                             <span>{education.course}</span>
                         </div>
                         <span className='float-right'>
-                            {education.startDate.getFullYear()} -{' '}
+                            {education.startDate.getFullYear()}
+                            {' – '}
                             {education.endDate?.getFullYear() ?? 'Present'}
                         </span>
                     </div>
