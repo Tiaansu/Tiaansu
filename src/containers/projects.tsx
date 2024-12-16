@@ -1,6 +1,7 @@
 import Container from '@/components/site/container';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
+import ProjectsData from '@/data/projects.json';
 
 type Project = {
     name: string;
@@ -9,32 +10,7 @@ type Project = {
     url: string;
 };
 
-const sideProjects: Project[] = [
-    {
-        name: 'samp-cron',
-        description: 'A cron plugin for SAMP/open.mp.',
-        stacks: ['Rust'],
-        url: 'https://github.com/tiaansu/samp-cron',
-    },
-    {
-        name: 'strada',
-        description: 'A simple kanban-style task tracker app',
-        stacks: ['Typescript', 'Next.js', 'Prisma', 'MongoDB'],
-        url: 'https://github.com/tiaansu/strada',
-    },
-    {
-        name: 'tasks-tracker',
-        description: 'A very simple tasks tracker',
-        stacks: ['Typescript', 'Next.js', 'Prisma', 'MongoDB'],
-        url: 'https://github.com/tiaansu/tasks-tracker',
-    },
-    {
-        name: 'social-profiles',
-        description: 'A simple app to share your social profiles',
-        stacks: ['Typescript', 'Next.js', 'Prisma', 'MongoDB'],
-        url: 'https://github.com/tiaansu/social-profiles',
-    },
-];
+const sideProjects = ProjectsData as unknown as Project[];
 
 export default function Projects() {
     return (

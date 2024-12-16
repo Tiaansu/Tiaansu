@@ -1,0 +1,32 @@
+[
+    {
+        "name": "samp-cron",
+        "description": "A cron plugin for SAMP/open.mp",
+        "stacks": ["Rust"],
+        "url": "https://github.com/tiaansu/samp-cron"
+    },
+    {
+        "name": "strada",
+        "description": "A simple kanban-style task tracker app",
+        "stacks": ["Typescript", "Next.js", "Prisma", "MongoDB"],
+        "url": "https://github.com/tiaansu/strada"
+    },
+    {
+        "name": "tasks-tracker",
+        "description": "A very simple tasks tracker",
+        "stacks": ["Typescript", "Next.js", "Prisma", "MongoDB"],
+        "url": "https://github.com/tiaansu/tasks-tracker"
+    },
+    {
+        "name": "social-profiles",
+        "description": "A simple app to share your social profiles",
+        "stacks": ["Typescript", "Next.js", "Prisma", "MongoDB"],
+        "url": "https://github.com/tiaansu/social-profiles"
+    },
+    {
+        "name": "omp-logger",
+        "description": "A logging component for open.mp",
+        "stacks": "cpp",
+        "url": "https://github.com/Tiaansu/omp-logger"
+    }
+]

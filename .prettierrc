@@ -1,7 +1,7 @@
 {
   "overrides": [
     {
-      "files": ["./src/**/*.{js,ts,jsx,tsx,mdx}"],
+      "files": ["./src/**/*.{js,ts,jsx,tsx,mdx,json}"],
       "options": {
         "tabWidth": 4,
         "semi": true,

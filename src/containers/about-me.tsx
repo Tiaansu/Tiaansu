@@ -1,13 +1,7 @@
 import Container from '@/components/site/container';
+import AboutMeData from '@/data/about-me.json';
 
-const aboutMe: string[] = [
-    `I'm Marlon Cabading also known as Tiaansu.`,
-    `I'm a full-stack software engineer that focuses more on back-end.`,
-    `I'm passionate about learning and building new things.`,
-    `I'm always looking for new and exciting projects.`,
-    `I'm currently taking Bachelor of Science in Information Technology at Access Computer College.`,
-    `Besides coding, I enjoy playing games and watching anime.`,
-];
+const aboutMe: string[] = AboutMeData;
 
 export default function AboutMe() {
     return (

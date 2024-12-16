@@ -1,50 +1,13 @@
 import Container from '@/components/site/container';
 import { Badge } from '@/components/ui/badge';
+import SkillsData from '@/data/skills.json';
 
 type Skills = {
     title: string;
     skills: string[];
 };
 
-const skills: Skills[] = [
-    {
-        title: 'Spoken Languages',
-        skills: ['Tagalog/Filipino', 'English'],
-    },
-    {
-        title: 'Programming Languages',
-        skills: [
-            'C/C++',
-            'Javascript/Typescript',
-            'HTML',
-            'CSS',
-            'Java',
-            'Python',
-            'PHP',
-        ],
-    },
-    {
-        title: 'Frameworks and Development Tools',
-        skills: [
-            'React',
-            'Git',
-            'GitHub',
-            'Hono',
-            'Node.js',
-            'Next.js',
-            'Discord.js',
-            'Sapphire.js',
-        ],
-    },
-    {
-        title: 'Databases',
-        skills: ['MongoDB', 'MySQL', 'SQLite'],
-    },
-    {
-        title: 'Others',
-        skills: ['CI/CD'],
-    },
-];
+const skills = SkillsData as unknown as Skills[];
 
 export default function Skills() {
     return (
