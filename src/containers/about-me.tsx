@@ -1,9 +1,13 @@
 import Container from '@/components/site/container';
-import AboutMeData from '@/data/about-me.json';
+import { promises as fs } from 'fs';
 
-const aboutMe: string[] = AboutMeData;
+export default async function AboutMe() {
+    const file = await fs.readFile(
+        process.cwd() + '/src/data/about-me.json',
+        'utf8'
+    );
+    const aboutMe = JSON.parse(file) as string[];
 
-export default function AboutMe() {
     return (
         <Container>
             <h1 className='text-3xl font-bold'>About Me</h1>

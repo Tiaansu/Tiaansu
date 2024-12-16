@@ -1,5 +1,5 @@
 import Container from '@/components/site/container';
-import EducationData from '@/data/education.json';
+import { promises as fs } from 'fs';
 
 type Education = {
     school: string;
@@ -8,9 +8,13 @@ type Education = {
     endDate?: string | null;
 };
 
-const educations = EducationData as unknown as Education[];
+export default async function Education() {
+    const file = await fs.readFile(
+        process.cwd() + '/src/data/education.json',
+        'utf8'
+    );
+    const educations = JSON.parse(file) as Education[];
 
-export default function Education() {
     return (
         <Container>
             <h1 className='text-3xl font-bold'>Education</h1>

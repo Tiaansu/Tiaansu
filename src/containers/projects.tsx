@@ -1,7 +1,7 @@
 import Container from '@/components/site/container';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
-import ProjectsData from '@/data/projects.json';
+import { promises as fs } from 'fs';
 
 type Project = {
     name: string;
@@ -10,9 +10,13 @@ type Project = {
     url: string;
 };
 
-const sideProjects = ProjectsData as unknown as Project[];
+export default async function Projects() {
+    const file = await fs.readFile(
+        process.cwd() + '/src/data/projects.json',
+        'utf8'
+    );
+    const sideProjects = JSON.parse(file) as Project[];
 
-export default function Projects() {
     return (
         <Container>
             <h1 className='text-3xl font-bold'>Side Projects</h1>

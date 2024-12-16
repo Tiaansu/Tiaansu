@@ -26,7 +26,7 @@
     {
         "name": "omp-logger",
         "description": "A logging component for open.mp",
-        "stacks": "cpp",
-        "url": "https://github.com/Tiaansu/omp-logger"
+        "stacks": ["cpp"],
+        "url": "https://github.com/tiaansu/omp-logger"
     }
 ]
