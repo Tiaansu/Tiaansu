@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/734302186644701205" target="_blank">
-        <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/734302186644701205?bg=333333">
+        <img width="500px" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/7343021866447012053">
     </a>
 </div>
 
