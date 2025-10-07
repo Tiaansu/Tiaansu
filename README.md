@@ -12,7 +12,7 @@ I began my software development journey back in September 2020. A game server sp
 
 # 🖥️ Tech Stack
 
-Frameworks, languages, and tools I actively use in my daily projects and tasks. My expertise with them is well-developed and refined through consitent practice and real-world application:
+Frameworks, languages, and tools I actively use in my daily projects and tasks. My expertise with them is well-developed and refined through consistent practice and real-world application:
 
 [![JS](https://img.shields.io/badge/Javascript-000.svg?&logo=javascript&style=for-the-badge)](#)
 [![TS](https://img.shields.io/badge/Typescript-000.svg?&logo=typescript&style=for-the-badge)](#)
