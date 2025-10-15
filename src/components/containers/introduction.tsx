@@ -1,19 +1,23 @@
 import Link from 'next/link';
 import Container from '@/components/site/container';
+import { ModeToggle } from '../mode-toggle';
 
 export default function Introduction() {
   return (
     <Container>
-      <h1 className='text-3xl font-bold'>
-        Kumusta!{' '}
-        <span
-          role='img'
-          aria-label='waving hand'
-          className='animate-wave inline-block origin-[70%_70%]'
-        >
-          👋
-        </span>
-      </h1>
+      <div className='flex justify-between'>
+        <h1 className='text-3xl font-bold'>
+          Kumusta!{' '}
+          <span
+            role='img'
+            aria-label='waving hand'
+            className='animate-wave inline-block origin-[70%_70%]'
+          >
+            👋
+          </span>
+        </h1>
+        <ModeToggle />
+      </div>
       <p className='text-lg leading-7'>
         I&apos;m Marlon, welcome to my website! I&apos;m a software engineer
         specialized in backend development.{' '}

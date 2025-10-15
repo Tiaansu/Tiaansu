@@ -4,15 +4,11 @@ import Footer from '@/components/containers/footer';
 import Introduction from '@/components/containers/introduction';
 import Projects from '@/components/containers/projects';
 import Skills from '@/components/containers/skills';
-import { ModeToggle } from '@/components/mode-toggle';
 
 export default function Home() {
   return (
     <main className='w-screen h-screen px-4 py-8 flex flex-col items-center gap-10 overflow-hidden overflow-y-scroll'>
-      <div className='flex items-start justify-between'>
-        <Introduction />
-        <ModeToggle />
-      </div>
+      <Introduction />
       <AboutMe />
       <Skills />
       <Education />
